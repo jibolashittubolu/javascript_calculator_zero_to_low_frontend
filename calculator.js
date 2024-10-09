@@ -31,7 +31,7 @@ console.log("5.Modulus")
     // take input from the user
 while (true){
   
-    console.log (' ')
+    console.log (' ') 
     choice = prompt("Enter choice\n1.Add \n2.Subtract \n3.Multiply \n4.Divide \n5.Modulus: ")
     var cases = ['1', '2', '3', '4', '5', '6']
     
